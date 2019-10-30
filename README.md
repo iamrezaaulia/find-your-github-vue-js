@@ -1,5 +1,3 @@
-# armillary
-
 ## Project setup
 ```
 npm install
